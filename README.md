@@ -1,1 +1,1 @@
-# lol-AD
+# Linux only, linux Active Directory
